@@ -1,0 +1,66 @@
+#primary-menu {
+    margin-left: inherit!important;
+}
+
+.head_btn{
+position: absolute;
+left: 81%;
+}
+.col-lg-7,.col-md-12{
+    padding-right: 0!important;
+ padding-left: 0!important;
+}
+.menu-my-menu-container{
+border-top: 1px solid rgba(128, 128, 128, 0.514)!important;
+}
+#masthead{
+padding-bottom: 0px!important;
+height: 10rem!important;
+}
+#banner-set {
+position: relative;
+left: 0rem!important;
+}
+.elementor-column-gap-default>.elementor-column>.elementor-element-populated {
+padding: 0px!important;
+}
+.overflow div{
+overflow-x: auto;
+display: flex;
+flex-wrap: nowrap!important;
+}
+.banner-heading > div > h2{
+    position: relative;
+    left: 15%;
+}
+.overflow{
+    overflow-x: auto;
+}
+.overflow::-webkit-scrollbar {
+    display: none;
+}
+.overflow h2.elementor-heading-title.elementor-size-default {
+    width: 86rem;
+}
+.overflow div{
+    width:81rem
+}
+#banner-set div.elementor-container.elementor-column-gap-default {
+    
+    height: auto!important;
+}
+
+figcaption.text h3 {
+    text-indent: -123%;
+    white-space: normal;
+    overflow: hidden;
+}
+figcaption.text {
+    min-height: auto!important;
+
+}
+.chief-guest figure.repeat-box .text {
+    text-align: center;
+    padding: 90px 0px;
+    margin-left: 4rem;
+}
